@@ -8,6 +8,16 @@ Created using the procedure described here:
 
 You can do this on your machine with effort, or you can deliver content to me and I can convert and publish them. I think you should get holt to set this up for you so you can optimize your settings, and see immediate results on your machine, but you do you.
 
+### View content
+
+You can see this doc and all the pieces at:
+
+    https://github.com/jameshowey/ckhletters
+
+Take a moment to investigate. All the scans and processed scans are accessible. Click on environment.jpg to see what I am looking at right now. That's the vs code ui. Navigate to /inputs and see your scans. Navigate to outputs and see the processed scans.
+
+You can give this url to anybody and they will be able to do the same. Does the same work as dropbox.
+
 ### Prereqs
 
 #### imagemagick
@@ -48,7 +58,8 @@ I use vs code to edit and publish this content. You can see a picture of the env
 Fetch it from:
 
     https://code.visualstudio.com/download
-    
+
+### Notes
 
 I have a folder with /inputs, /outputs. The following command makes a more readable version of one of your scans. the -level parameters can be adjusted to vary the appearance of the converted image. 
 
